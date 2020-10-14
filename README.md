@@ -11,8 +11,8 @@
 
 ## Stats:
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCrazeiOS&theme=react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCrazeiOS&theme=react&line_height=27">
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iCrazeiOS&show_icons=true&line_height=37&count_private=true&theme=react" alt="iCrazeiOS's GitHub Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iCrazeiOS&show_icons=true&line_height=27&count_private=true&theme=react" alt="iCrazeiOS's GitHub Stats">
 </a>
