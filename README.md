@@ -2,7 +2,7 @@
 
 * <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/tools.png?raw=true" width="15px" style="margin-right:2px;"> **Developer, currently interested in iOS development.**
 
-* <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/sleepsaver.png?raw=true" width="20px" style="margin-right:2px;"> **I’m currently working on [SleepSaver](https://repo.packix.com/package/com.icraze.sleepsaver/), a jailbreak tweak that brings customisable screensavers to iOS devices.**
+* <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/sleepsaver.png?raw=true" width="17.5px" style="margin-right:2px;"> **I’m currently working on [SleepSaver](https://repo.packix.com/package/com.icraze.sleepsaver/), a jailbreak tweak that brings customisable screensavers to iOS devices.**
 
 ## How to reach me:
 * **[Twitter](https://twitter.com/iCrazeiOS)**
