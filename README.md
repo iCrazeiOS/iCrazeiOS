@@ -10,9 +10,9 @@
 * <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/email.png?raw=true" width="18px" style="margin-right:2px;"> **Email: iCrazeiOS@protonmail.com**
 
 ## Stats:
-<a href="#">
+<a href="#stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCrazeiOS&hide=Makefile&theme=react">
 </a>
-<a href="#">
+<a href="#stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iCrazeiOS&show_icons=true&line_height=33.5&count_private=true&theme=react" alt="iCrazeiOS's GitHub Stats">
 </a>
