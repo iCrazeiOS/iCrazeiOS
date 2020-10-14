@@ -9,4 +9,5 @@ Developer, mainly into iOS development currently.
 * Discord: iCraze#1996
 * Email: iCrazeiOS@protonmail.com
 
+## Stats:
 <a href=""><img src="https://github-readme-stats.vercel.app/api/?username=iCrazeiOS&theme=react&show_icons=true&count_private=true"></a>
