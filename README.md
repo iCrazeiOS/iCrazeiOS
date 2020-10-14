@@ -10,4 +10,5 @@
 * <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/email.png?raw=true" width="18px" style="margin-right:2px;"> **Email: iCrazeiOS@protonmail.com**
 
 ## Stats:
-<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=iCrazeiOS&theme=react&show_icons=true&count_private=true"></a>
+<img src="https://github-readme-stats.vercel.app/api/?username=iCrazeiOS&theme=react&show_icons=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCrazeiOS&theme=react">
