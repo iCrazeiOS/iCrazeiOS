@@ -1,8 +1,8 @@
 # iCraze
 
-Developer, currently interested in iOS development.
+* Developer, currently interested in iOS development.
 
-**I’m currently working on [SleepSaver](https://repo.packix.com/package/com.icraze.sleepsaver/), a jailbreak tweak that brings customisable screensavers to iOS devices.**
+* **I’m currently working on [SleepSaver](https://repo.packix.com/package/com.icraze.sleepsaver/), a jailbreak tweak that brings customisable screensavers to iOS devices.**
 
 ## How to reach me:
 * [Twitter](https://twitter.com/iCrazeiOS)
