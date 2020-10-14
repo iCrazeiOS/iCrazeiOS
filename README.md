@@ -1,4 +1,4 @@
-### iCraze
+# iCraze
 
 Developer, mainly into iOS development currently.
 
