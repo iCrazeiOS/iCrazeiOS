@@ -1,6 +1,6 @@
 # iCraze
 
-* <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/tools.png?raw=true" width="15px">  **Developer, currently interested in iOS development.**
+* <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/tools.png?raw=true" width="15px" style="margin-right:2px;"> **Developer, currently interested in iOS development.**
 
 * **I’m currently working on [SleepSaver](https://repo.packix.com/package/com.icraze.sleepsaver/), a jailbreak tweak that brings customisable screensavers to iOS devices.**
 
