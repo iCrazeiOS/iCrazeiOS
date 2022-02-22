@@ -9,7 +9,7 @@
 
 ## Support
 * PayPal: **[Click here](https://paypal.me/iCrazeiOS)**
-* Bitcoin Address: ** bc1q0ghuykcutljjyh3tcdjv88ek8zjzrtnk8zhuhy**
+* Bitcoin Address: **bc1q0ghuykcutljjyh3tcdjv88ek8zjzrtnk8zhuhy**
 
 ## Stats:
 <a href="#stats">
