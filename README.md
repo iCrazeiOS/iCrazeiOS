@@ -1,13 +1,15 @@
 # iCraze
 
-* <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/tools.png?raw=true" width="15px" style="margin-right:2px;"> **Developer, currently interested in iOS development.**
-
-* <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/sleepsaver.png?raw=true" width="16px" style="margin-right:2px;"> **I’m currently working on [SleepSaver](https://repo.packix.com/package/com.icraze.sleepsaver/), a jailbreak tweak that brings customisable screensavers to iOS devices.**
+* <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/tools.png?raw=true" width="15px" style="margin-right:2px;"> **Developer, currently most interested in backend development.**
 
 ## How to reach me:
 * <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/twitter.png?raw=true" width="17.5px" style="margin-right:2px;"> **[Twitter](https://twitter.com/iCrazeiOS)**
 * <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/discord.png?raw=true" width="17.5px" style="margin-right:2px;"> **Discord: iCraze#3017**
 * <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/email.png?raw=true" width="18px" style="margin-right:2px;"> **Email: iCrazeiOS@protonmail.com**
+
+## Support
+* PayPal: **[Click here](https://paypal.me/iCrazeiOS)**
+* Bitcoin Address: ** bc1q0ghuykcutljjyh3tcdjv88ek8zjzrtnk8zhuhy**
 
 ## Stats:
 <a href="#stats">
