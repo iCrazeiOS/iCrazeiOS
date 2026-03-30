@@ -10,11 +10,3 @@
 ## Support
 * <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/paypal.png?raw=true" width="16px" style="margin-right:5px;"> **[PayPal](https://paypal.me/iCrazeiOS)**
 * <img src="https://github.com/iCrazeiOS/iCrazeiOS/blob/main/bitcoin.png?raw=true" width="17px" style="margin-right:5px;"> **bc1q0ghuykcutljjyh3tcdjv88ek8zjzrtnk8zhuhy (BTC)**
-
-## Stats:
-<a href="#stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCrazeiOS&hide=Makefile&theme=react">
-</a>
-<a href="#stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iCrazeiOS&show_icons=true&line_height=27&count_private=true&theme=react" alt="iCrazeiOS's GitHub Stats">
-</a>
